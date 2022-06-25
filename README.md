@@ -13,7 +13,7 @@
 <code>npx tailwindcss ini -p</code>
 
 <p>For run the project</p>
-<code>npm run deve</code>
+<code>npm run dev</code>
 
 ## Technologies
   ### React
